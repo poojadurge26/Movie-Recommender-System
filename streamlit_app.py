@@ -8,7 +8,7 @@ def add_bg_from_url():
             f"""
              <style>
              .stApp {{
-                 background-image: url('https://www.google.com/imgres?q=pngtree%20film%20strip%20blue%20background%20free&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20221202%2Fpngtree-3d-film-strips-with-light-effect-background-image_1487539.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Ffilm-strip&docid=lpwG7OFvMJtAhM&tbnid=PL5NWQN3H09s3M&vet=12ahUKEwjyovfb25uGAxXnrVYBHUcZBnsQM3oECHQQAA..i&w=631&h=360&hcb=2&ved=2ahUKEwjyovfb25uGAxXnrVYBHUcZBnsQM3oECHQQAA');
+                 background-image: url('https://www.freepik.com/free-photo/movie-background-collage_33752468.htm#fromView=search&page=1&position=47&uuid=a19a0e3b-a500-485b-9714-cc65123e9cec');
                  background-attachment: fixed;
                  background-size: cover
              }}
